@@ -1,0 +1,6 @@
+@gnyang.samples.nlog_HostAddress = http://localhost:5163
+
+GET {{gnyang.samples.nlog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
